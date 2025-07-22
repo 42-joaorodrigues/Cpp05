@@ -4,10 +4,6 @@
 ![C++ Badge](https://img.shields.io/badge/Language-C%2B%2B98-blue)
 ![Status Badge](https://img.shields.io/badge/Status-Completed-success)
 
-## Project Details
-
-For full project requirements, see the [Subject File](./subject.md).
-
 ## What I Learned
 
 Through this advanced C++ project at 42 School, I developed crucial object-oriented programming skills and exception handling expertise:
